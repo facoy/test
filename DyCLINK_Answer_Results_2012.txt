@@ -1,0 +1,83 @@
+shevchen.A:solve, chavit92.A:solve] 0.8486172566371681
+
+proj2rf.A:inp, pashkal.taskA:solve] 0.8268939393939393
+
+vot.A:solve, proj2rf.A:solve] 0.8769180069908938
+
+ivanpopelyshev.Main:solve, Jens.R3_A_easy:solve] 0.8714169373571357
+
+vot.A:run, proj2rf.A:solve] 0.8698437039283577
+
+pashkal.taskA:run, shevchen.A:run] 0.822922922922923
+
+proj2rf.A:inp, IvanRomanov.A:run] 0.8505522290962905
+
+framalex.A:run, antonakhi.A:run] 0.8373286089290993
+
+antonakhi.A:solve, pashkal.taskA:solve] 0.8303571156343116
+
+argentony.A:solve, pashkal.taskA:solve] 0.8431001368189803
+
+argentony.A:solve, antonakhi.A:run] 0.8653316841061299
+
+shevchen.A:solve, argentony.A:run] 0.8343799893162793
+
+IvanRomanov.A:solve::Ljava.lang.String, mikhailOK.A:solveOneTest] 0.8332753823144617
+
+pashkal.taskA:run, chavit92.A:run] 0.8898868048959004
+
+chavit92.A:solve, pashkal.taskA:solve] 0.8888238956035566
+
+immoonancient.ProbA:main:([Ljava.lang.String):V, mystic.Perfect:solve:(Ljava.util.Scanner+Ljava.io.PrintWriter):V] 0.8656137018710117
+
+mikhailOK.A:solve, IvanRomanov.A:solve::Ljava.lang.String] 0.8259072984085792
+
+proj2rf.A:inp, mikhailOK.A:solve] 0.8818244853328422
+
+mikhailOK.A:solveOneTest, IvanRomanov.A:run] 0.8303506587820313
+
+mikhailOK.A:solve, IvanRomanov.A:run] 0.8271749755620723
+
+antonakhi.A:run, chavit92.A:solve] 0.8387984320820142
+
+mikhailOK.A:solve, proj2rf.A:solve] 0.8349789122114143
+
+proj2rf.A:solve, mikhailOK.A:solveOneTest] 0.9026143790849673
+
+proj2rf.A:solve, pashkal.taskA:solve] 0.8232425205316772
+
+chavit92.A:solve, argentony.A:run] 0.8470241662232926
+
+vot.A:solve, mikhailOK.A:solveOneTest] 0.8618242213534039
+
+argentony.A:solve, chavit92.A:solve] 0.852379190235364
+
+Jens.R3_A_easy:solve, ivanpopelyshev.Main:solve_gcj] 0.9020472220706879
+
+ivanpopelyshev.Main:solve, Jens.R3_A_easy:solveIt:(I):V] 0.873571534369269
+
+argentony.A:solve, antonakhi.A:solve] 0.8466779262447813
+
+pashkal.taskA:solve, chavit92.A:run] 0.8538608981380066
+
+proj2rf.A:inp, framalex.A:run] 0.8815194516673162
+
+framalex.A:run, antonakhi.A:solve] 0.8319073439890495
+
+shevchen.A:solve, chavit92.A:run] 0.8434529863931463
+
+framalex.A:run, proj2rf.A:solve] 0.8727047252633668
+
+pashkal.taskA:run, shevchen.A:solve] 0.8262441387008528
+
+andrewzta.A:solve, chavit92.A:solve] 0.8278382100795457
+
+Jens.R3_A_easy:solveIt:(I):V, ivanpopelyshev.Main:solve_gcj] 0.8641563032122764
+
+proj2rf.A:inp, mikhailOK.A:solveOneTest] 0.8989196780640631
+
+IvanRomanov.A:solve::Ljava.lang.String, proj2rf.A:solve] 0.8250998767423328
+
+shevchen.A:run, chavit92.A:solve] 0.8454106280193238
+
+pashkal.taskA:run, chavit92.A:solve] 0.8643116437464188
